@@ -1,0 +1,15 @@
+{
+  "name": "angular-directive",
+  "description": "",
+  "main": "angular.js",
+  "authors": [
+    "Sebastien Axinte <sebastien.axinte@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/saxinte/angular-directive-test",
+  "moduleType": [],
+  "devDependencies": {
+    "angular": "~1.4.9",
+    "angular-mocks": "~1.4.9"
+  }
+}

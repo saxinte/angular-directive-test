@@ -1,0 +1,8 @@
+<figure class="person">
+	<img ng-show="!showpicture" src="{{avatarDatas.picture}}" width="190" height="190" />
+	<figcaption>
+		<p ng-repeat="(key, value) in isolatedDatas">
+			<b>{{key}}:</b> {{value}}
+		</p>
+	</figcaption>
+</figure>
